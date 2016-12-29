@@ -1,9 +1,9 @@
 Welcome to GIT world ...!!
 
-change 1 : Changes are always welcome..
+change - 1 : Changes are always welcome..
 
 
-change 2 : Changes are always welcome..
+change - 2 : Changes are always welcome..
 
 
-change 3 : Changes are always welcome..
+change - 3 : Changes are always welcome..
